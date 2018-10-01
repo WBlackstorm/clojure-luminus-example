@@ -2,7 +2,8 @@
 
 generated using Luminus version "3.10.3"
 
-FIXME
+This project is the beginning of my study of clojure and luminus framework. I believe it is simpler than other frameworks, so I've started with it.
+Clojure is different of most common languages today, but performance is incredible.
 
 ## Prerequisites
 
@@ -18,5 +19,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2018 FIXME
-# clojure-luminus-example
+Copyright © 2018 
